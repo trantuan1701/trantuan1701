@@ -1,30 +1,14 @@
-# Tran Tuan
+# Hi, I'm Tuan 👋
 
-**Machine learning · Recommendation systems · Data analytics**
+I'm a Data Science student at **National Economics University, Vietnam**, focused on AI engineering and practical LLM applications.
 
-I explore how data and machine learning can support practical applications.
-My public projects span recommendation analytics, time series, graph analysis, and retrieval-augmented generation.
+- 🎓 Studying Data Science in Economics and Business, with expected graduation in 2027.
+- 💼 AI Engineer Intern at **Alpha Data Academy**, working on conversational AI for business applications.
+- 🌱 **Viettel Digital Talent 2025** alumnus, with AI engineering internship experience at **Viettel Digital Services**.
+- 🔍 Interested in **RAG, AI agents, Text-to-SQL**, and building reliable AI systems through experimentation and evaluation.
 
-## Selected projects
+**Languages:** Python, C++, SQL  
+**AI & backend:** LangChain, LangGraph, vLLM, FastAPI, TensorFlow, Keras  
+**Tools:** Git, Docker
 
-| Project | Focus |
-| --- | --- |
-| [Diginetica Recommendation Analytics](https://github.com/trantuan1701/ddm-diginetica-recommendation) | Session-based recommendation evaluation, data marts, and Power BI reporting using Python and SQL. |
-| [SR-GNN Recommendation System](https://github.com/tlong-ds/recsys-group-project) | Collaborative project covering graph-based recommenders, experiment pipelines, model serving, and MLOps. |
-
-## More to explore
-
-- [Time Series: ARIMA, GARCH & LSTM](https://github.com/trantuan1701/TSA_ARIMA-GARCH-LSTM)
-- [Graph Analysis](https://github.com/trantuan1701/graphX)
-- [MultiHopRag](https://github.com/trantuan1701/MultiHopRag)
-- [Data Visualization](https://github.com/trantuan1701/Data_viz_final_project)
-
-## Tools used across these projects
-
-**Languages & notebooks:** Python, SQL, Jupyter Notebook  
-**Analytics & reporting:** PostgreSQL, Power BI  
-**Experiment & data management:** MLflow, DVC
-
----
-
-Browse the pinned repositories below for code, documentation, and project details.
+[LinkedIn](https://www.linkedin.com/in/tran-anhtuan-ai)
